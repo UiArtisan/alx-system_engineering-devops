@@ -1,0 +1,4 @@
+#!/bin/bash
+printenv
+declare -p
+declare -F
